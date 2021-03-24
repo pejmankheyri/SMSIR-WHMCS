@@ -97,7 +97,8 @@
 * <a href="https://user-images.githubusercontent.com/3329008/112186568-e68f7180-8c1e-11eb-8103-e9f113ab37c9.png" target="_blank">تصویر 03</a>
 * <a href="https://user-images.githubusercontent.com/3329008/112186625-f4dd8d80-8c1e-11eb-9332-5fbfa17faa3e.png" target="_blank">تصویر 04</a>
 * <a href="https://user-images.githubusercontent.com/3329008/112186673-00c94f80-8c1f-11eb-9721-ffaf57f7449e.png" target="_blank">تصویر 05</a>
-* <a href="https://user-images.githubusercontent.com/3329008/112186726-0cb51180-8c1f-11eb-9490-bcf3a97bd994.png" target="_blank">تصویر 06</a>
-
+* <a href="https://user-images.githubusercontent.com/3329008/112276169-0fa31700-8c9e-11eb-9768-35b9b2a6cdac.png" target="_blank">تصویر 06</a>
+* <a href="https://user-images.githubusercontent.com/3329008/112276193-19c51580-8c9e-11eb-8b53-7481cebaae8d.png" target="_blank">تصویر 07</a>
+* <a href="https://user-images.githubusercontent.com/3329008/112276238-25184100-8c9e-11eb-9594-1b05e9a698a2.png" target="_blank">تصویر 08</a>
 
 </div>
