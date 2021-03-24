@@ -16,9 +16,7 @@
  یک افزونه کاربردی برای سیستم مدیریت هاستینگ WHMCS می باشد که شما را قادر می سازد تا براحتی از طریق پیامک در تمامی بخش های ممکن سیستم اقدام به اطلاع رسانی برای کاربرانتان کنید.
 
 
-> [نصب با آپلود فایل](https://github.com/pejmankheyri/SMSIR-WHMCS#%D9%86%D8%B5%D8%A8-%D8%A8%D8%A7-%D8%A2%D9%BE%D9%84%D9%88%D8%AF-%D9%81%D8%A7%DB%8C%D9%84)
-> 
-> [نصب از منوی افزونه ها](https://github.com/pejmankheyri/SMSIR-WHMCS#%D9%86%D8%B5%D8%A8-%D8%A7%D8%B2-%D9%85%D9%86%D9%88%DB%8C-%D8%A7%D9%81%D8%B2%D9%88%D9%86%D9%87-%D9%87%D8%A7)
+> [نصب](https://github.com/pejmankheyri/SMSIR-WHMCS#%D9%86%D8%B5%D8%A8)
 > 
 > [امکانات](https://github.com/pejmankheyri/SMSIR-WHMCS#%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA)
 > 
